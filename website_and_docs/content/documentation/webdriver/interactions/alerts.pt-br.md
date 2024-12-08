@@ -26,7 +26,7 @@ alertas.
 
 {{< tabpane langEqualsHeader=true >}}
   {{< tab header="Java" text=true >}}
-{{< gh-codeblock path="examples/java/src/test/java/dev/selenium/interactions/AlertsTest.java#L51-L58" >}}
+{{< gh-codeblock path="examples/java/src/test/java/dev/selenium/interactions/AlertsTest.java#L51-L57" >}}
 {{< /tab >}}
 {{< tab header="Python" text=true >}}
 {{< gh-codeblock path="examples/python/tests/interactions/test_alerts.py#L12-L18" >}}
